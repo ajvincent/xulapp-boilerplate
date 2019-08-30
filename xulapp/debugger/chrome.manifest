@@ -1,0 +1,4 @@
+resource dbgserver .
+locale dbgserver en-US chrome/dbgserver/locale/en-US/
+content dbgserver chrome/dbgserver/content/
+manifest components/chrome.manifest

@@ -1,2 +1,3 @@
 manifest chrome/chrome.manifest
 manifest browser/chrome.manifest
+manifest debugger/chrome.manifest

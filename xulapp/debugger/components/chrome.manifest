@@ -1,0 +1,6 @@
+# JavaScript components must be registered in a manifest file
+# https://developer.mozilla.org/en/XPCOM/XPCOM_changes_in_Gecko_2.0#JavaScript_components
+
+component {4936c2b6-b592-4030-a05f-56d1003d761a} cmdLine.js
+contract @xulapp/debugger/clh;1 {4936c2b6-b592-4030-a05f-56d1003d761a}
+category command-line-handler m-debugger @xulapp/debugger/clh;1
